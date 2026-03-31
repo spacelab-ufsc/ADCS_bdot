@@ -609,6 +609,27 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "9a605480-5564-4a0e-ba7b-19a361378337",
+      "Root"
+    ],
+    [
+      "09105f10-a949-43fe-bd4d-bca407919f43",
+      "Power"
+    ],
+    [
+      "eacf7a26-518c-485b-b46b-6129e072d4f7",
+      "MCU_STM32F7"
+    ],
+    [
+      "e00c3143-0934-42d9-9950-a1681b014fb0",
+      "Gyroscope"
+    ],
+    [
+      "50f9c94e-35fa-4018-9fe4-55026ddad35f",
+      "Magnetometer"
+    ]
+  ],
   "text_variables": {}
 }
