@@ -1,4 +1,4 @@
-27227892497340781
+27229668513101736
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62411,6 +62411,13 @@ emi filter
 0
 5
 5
+Footprintlib_adcs_bdot
+ABM3
+ABM3
+Crystal or Oscillator
+0
+2
+2
 Footprintlib_adcs_bdot
 IIS2MDCTR
 LGA-12 XDM
