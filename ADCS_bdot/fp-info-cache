@@ -1,4 +1,4 @@
-27229668513101736
+27256402272122050
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62419,6 +62419,20 @@ Crystal or Oscillator
 2
 2
 Footprintlib_adcs_bdot
+CM7V32768TBQA020
+CM7V-T1A
+Crystal or Oscillator
+0
+2
+2
+Footprintlib_adcs_bdot
+HMC1001RC
+HMC1001-RC-2
+Integrated Circuit
+0
+8
+8
+Footprintlib_adcs_bdot
 IIS2MDCTR
 LGA-12 XDM
 Integrated Circuit
@@ -62433,6 +62447,13 @@ I3G4250DTR
 16
 16
 Footprintlib_adcs_bdot
+QFN65P400X400X80-17N-D
+RTY (S-PWQFN-N16)_EP2.1
+Integrated Circuit
+0
+17
+17
+Footprintlib_adcs_bdot
 QFP50P2200X2200X160-144N
 LQFP-144
 Integrated Circuit
@@ -62446,6 +62467,27 @@ TPSM861253RDXR
 0
 7
 7
+Footprintlib_adcs_bdot
+SCA3300-D01-1
+SCA3300
+Accelerometer
+0
+12
+12
+Footprintlib_adcs_bdot
+SOIC8_D_TEX
+
+TMCS1101A3BQDRQ1 
+0
+8
+8
+Footprintlib_adcs_bdot
+SOIC20_HNW
+
+HMC1002-TR 
+0
+20
+20
 Footprintlib_adcs_bdot
 X2SON_DQN4_TEX
 
@@ -94114,6 +94156,69 @@ mousebite stamp slot break tab 2mm edge on-edge
 0
 0
 0
+PicofoxLib
+BGS12P2L6 - TSLP6
+
+
+0
+6
+6
+PicofoxLib
+Bourns 2035 GDT
+
+
+0
+2
+2
+PicofoxLib
+Castellation Pad
+SMD rectangular pad as test Point, square 1.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+PicofoxLib
+DFN0603-2L
+
+
+0
+2
+2
+PicofoxLib
+JST PH 2 Horizontal
+
+connector JST PH vertical
+0
+4
+4
+PicofoxLib
+LED 1206 Side View
+1206 LED package side viewable, has extra pad for balance.
+
+0
+3
+3
+PicofoxLib
+SOT95P280X145-6N
+DBV (R-PDSO-G6)
+Integrated Circuit
+0
+6
+6
+PicofoxLib
+SW_Slide_SPDT_Angled_CK_OS102011MA1Q
+CuK miniature slide switch, OS series, SPDT, right angle, http://www.ckswitches.com/media/1428/os.pdf
+switch SPDT
+0
+5
+3
+PicofoxLib
+USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A
+16-pin USB-C receptacle, USB2.0 and PD, 5A VBUS rating, https://datasheet.lcsc.com/lcsc/2211161000_HCTL-HC-TYPE-C-16P-01A_C2894897.pdf
+usb usb-c 2.0 pd
+0
+20
+17
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf

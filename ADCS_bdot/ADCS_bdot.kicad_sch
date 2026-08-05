@@ -42,8 +42,8 @@
 			)
 		)
 		(pin "PWR_IN" input
-			(at 71.12 69.85 180)
-			(uuid "2cb3742c-cf2e-44d8-9279-a072c3416368")
+			(at 71.12 68.58 180)
+			(uuid "8fe60e98-61fe-419c-8b36-cf30d2571d27")
 			(effects
 				(font
 					(size 1.27 1.27)
